@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="930" viewBox="0 0 1400 930">
+<rect width="1400" height="930" fill="#f8fafc"/>
+<text x="50.0" y="50.0" font-family="Arial, sans-serif" font-size="26" fill="#111827" font-weight="bold">Olist E-commerce Analysis — Reproducible Dashboard Snapshot</text>
+<text x="50.0" y="78.0" font-family="Arial, sans-serif" font-size="14" fill="#475569" font-weight="normal">Public anonymized historical data | Delivered orders only | Generated from ecommerce.db</text>
+<rect x="50" y="110" width="300" height="95" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="68.0" y="145.0" font-family="Arial, sans-serif" font-size="25" fill="#111827" font-weight="bold">96,478</text>
+<text x="68.0" y="178.0" font-family="Arial, sans-serif" font-size="14" fill="#475569" font-weight="normal">Delivered orders</text>
+<rect x="385" y="110" width="300" height="95" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="403.0" y="145.0" font-family="Arial, sans-serif" font-size="25" fill="#111827" font-weight="bold">93,358</text>
+<text x="403.0" y="178.0" font-family="Arial, sans-serif" font-size="14" fill="#475569" font-weight="normal">Purchasing customers</text>
+<rect x="720" y="110" width="300" height="95" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="738.0" y="145.0" font-family="Arial, sans-serif" font-size="25" fill="#111827" font-weight="bold">15,422,461.77</text>
+<text x="738.0" y="178.0" font-family="Arial, sans-serif" font-size="14" fill="#475569" font-weight="normal">GMV</text>
+<rect x="1055" y="110" width="300" height="95" rx="12" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="1073.0" y="145.0" font-family="Arial, sans-serif" font-size="25" fill="#111827" font-weight="bold">159.86</text>
+<text x="1073.0" y="178.0" font-family="Arial, sans-serif" font-size="14" fill="#475569" font-weight="normal">Average order value</text>
+<text x="70.0" y="258.0" font-family="Arial, sans-serif" font-size="20" fill="#111827" font-weight="bold">Monthly GMV and order volume</text>
+<rect x="70" y="280" width="1240" height="205" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="87.0" y="505.0" font-family="Arial, sans-serif" font-size="11" fill="#64748b" font-weight="normal">2016-09</text>
+<text x="302.5" y="505.0" font-family="Arial, sans-serif" font-size="11" fill="#64748b" font-weight="normal">2017-02</text>
+<text x="517.9" y="505.0" font-family="Arial, sans-serif" font-size="11" fill="#64748b" font-weight="normal">2017-06</text>
+<text x="733.4" y="505.0" font-family="Arial, sans-serif" font-size="11" fill="#64748b" font-weight="normal">2017-10</text>
+<text x="948.8" y="505.0" font-family="Arial, sans-serif" font-size="11" fill="#64748b" font-weight="normal">2018-02</text>
+<text x="1164.3" y="505.0" font-family="Arial, sans-serif" font-size="11" fill="#64748b" font-weight="normal">2018-06</text>
+<polyline points="105.0,460.0 158.9,453.5 212.7,460.0 266.6,442.3 320.5,422.4 374.3,402.5 428.2,405.8 482.0,381.3 535.9,392.0 589.8,381.4 643.6,370.4 697.5,362.7 751.4,355.8 805.2,300.0 859.1,343.0 913.0,310.4 966.8,325.9 1020.7,304.6 1074.5,302.9 1128.4,303.4 1182.3,319.6 1236.1,317.4 1290.0,323.3" fill="none" stroke="#2563eb" stroke-width="3"/>
+<polyline points="105.0,460.0 158.9,454.2 212.7,460.0 266.6,443.6 320.5,423.7 374.3,404.1 428.2,409.5 482.0,382.2 535.9,391.2 589.8,375.0 643.6,368.0 697.5,368.9 751.4,361.7 805.2,300.0 859.1,339.0 913.0,304.8 966.8,316.1 1020.7,306.3 1074.5,310.8 1128.4,311.9 1182.3,326.1 1236.1,324.8 1290.0,320.6" fill="none" stroke="#f97316" stroke-width="3"/>
+<text x="80.0" y="300.0" font-family="Arial, sans-serif" font-size="12" fill="#2563eb" font-weight="bold">GMV</text>
+<text x="125.0" y="300.0" font-family="Arial, sans-serif" font-size="12" fill="#f97316" font-weight="bold">Orders</text>
+<text x="70.0" y="568.0" font-family="Arial, sans-serif" font-size="19" fill="#111827" font-weight="bold">Top categories by allocated GMV</text>
+<rect x="70" y="590" width="570" height="280" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="82.0" y="629.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">cool_stuff</text>
+<rect x="280" y="615" width="166.6" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="629.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">692k</text>
+<text x="82.0" y="659.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">utilidades_domesticas</text>
+<rect x="280" y="645" width="182.9" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="659.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">759k</text>
+<text x="82.0" y="689.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">moveis_decoracao</text>
+<rect x="280" y="675" width="212.7" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="689.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">883k</text>
+<text x="82.0" y="719.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">informatica_acessorios</text>
+<rect x="280" y="705" width="248.7" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="719.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">1032k</text>
+<text x="82.0" y="749.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">esporte_lazer</text>
+<rect x="280" y="735" width="269.5" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="749.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">1118k</text>
+<text x="82.0" y="779.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">cama_mesa_banho</text>
+<rect x="280" y="765" width="295.1" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="779.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">1225k</text>
+<text x="82.0" y="809.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">relogios_presentes</text>
+<rect x="280" y="795" width="304.4" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="809.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">1264k</text>
+<text x="82.0" y="839.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">beleza_saude</text>
+<rect x="280" y="825" width="340.0" height="18" rx="4" fill="#0f766e"/>
+<text x="630.0" y="839.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">1411k</text>
+<text x="720.0" y="568.0" font-family="Arial, sans-serif" font-size="19" fill="#111827" font-weight="bold">Delivery-risk states (min. 100 orders)</text>
+<rect x="720" y="590" width="570" height="280" fill="#ffffff" stroke="#e2e8f0"/>
+<text x="732.0" y="629.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">TO</text>
+<rect x="930" y="615" width="181.5" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="629.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">12.8%</text>
+<text x="732.0" y="659.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">RJ</text>
+<rect x="930" y="645" width="191.4" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="659.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">13.5%</text>
+<text x="732.0" y="689.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">BA</text>
+<rect x="930" y="675" width="199.4" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="689.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">14.0%</text>
+<text x="732.0" y="719.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">SE</text>
+<rect x="930" y="705" width="216.3" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="719.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">15.2%</text>
+<text x="732.0" y="749.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">CE</text>
+<rect x="930" y="735" width="217.7" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="749.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">15.3%</text>
+<text x="732.0" y="779.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">PI</text>
+<rect x="930" y="765" width="226.9" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="779.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">16.0%</text>
+<text x="732.0" y="809.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">MA</text>
+<rect x="930" y="795" width="279.4" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="809.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">19.7%</text>
+<text x="732.0" y="839.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">AL</text>
+<rect x="930" y="825" width="340.0" height="18" rx="4" fill="#dc2626"/>
+<text x="1280.0" y="839.0" font-family="Arial, sans-serif" font-size="11" fill="#334155" font-weight="normal">23.9%</text>
+</svg>
