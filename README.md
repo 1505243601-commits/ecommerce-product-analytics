@@ -38,4 +38,15 @@
 
 基于公开匿名化 Olist 电商订单数据，使用 Python 与 SQL 构建订单粒度分析宽表，完成月度经营、首购 cohort、品类和配送体验分析，并以 Power BI/Metabase 交付可筛选看板与业务建议。
 
+## 复现证据
+
+- 指标口径、数据范围与核心结果校验：[指标口径与复现证据](docs/metric_definitions.md)
+- 可复现图表快照：[经营、品类与配送风险](docs/screenshots/dashboard_overview.svg)、[Cohort 留存](docs/screenshots/cohort_retention.svg)
+- 生成命令：先运行 `python src/build_mart.py`，再运行 `python src/render_evidence.py`。
+
+![经营、品类与配送风险快照](docs/screenshots/dashboard_overview.svg)
+
+![Cohort 留存快照](docs/screenshots/cohort_retention.svg)
+
+
 
