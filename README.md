@@ -34,6 +34,7 @@
 - `data/analytics/cohort_retention.csv`：用户首购 cohort 留存表。
 - `data/analytics/category_kpi.csv`：品类经营表现。
 - `data/analytics/ecommerce.db`：供 SQL 查询和 BI 工具连接的 SQLite 数据库。
+- `docs/metabase_validation.md`：本地 Metabase 看板的卡片清单与渲染验证记录。
 
 ## 简历表述（完成并核验后使用）
 
