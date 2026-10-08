@@ -36,8 +36,6 @@
 - `data/analytics/ecommerce.db`：供 SQL 查询和 BI 工具连接的 SQLite 数据库。
 - `docs/metabase_validation.md`：本地 Metabase 看板的卡片清单与渲染验证记录。
 
-## 简历表述（完成并核验后使用）
-
-> 基于公开匿名化 Olist 电商订单数据，使用 Python 与 SQL 构建订单粒度分析宽表，完成月度经营、首购 cohort、品类和配送体验分析，并以 Power BI/Metabase 交付可筛选看板与业务建议。
+基于公开匿名化 Olist 电商订单数据，使用 Python 与 SQL 构建订单粒度分析宽表，完成月度经营、首购 cohort、品类和配送体验分析，并以 Power BI/Metabase 交付可筛选看板与业务建议。
 
 请将最终使用的指标口径、截图与关键查询保留在仓库中，以便面试追问时复现。
