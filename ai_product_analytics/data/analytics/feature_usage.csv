@@ -1,0 +1,13 @@
+feature,platform,model_version,active_users,event_count
+文案生成,web,v2,106,148
+文案生成,desktop,v1,105,156
+表格分析,web,v2,103,155
+智能问答,desktop,v2,101,149
+表格分析,desktop,v1,97,153
+智能问答,web,v1,96,144
+文案生成,desktop,v2,95,140
+智能问答,web,v2,93,135
+表格分析,web,v1,93,132
+智能问答,desktop,v1,92,134
+表格分析,desktop,v2,91,132
+文案生成,web,v1,89,131

@@ -1,0 +1,10 @@
+check_type,check_item,issue_count
+missing_attribute,event_date,0
+missing_attribute,user_id,0
+missing_attribute,session_id,0
+missing_attribute,event_name,0
+missing_attribute,feature,0
+missing_attribute,model_version,0
+missing_attribute,platform,0
+duplicate_event,event_date+user_id+session_id+event_name+feature,0
+unknown_event,event_name,0

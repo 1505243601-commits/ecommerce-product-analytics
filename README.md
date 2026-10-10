@@ -36,8 +36,6 @@
 - `data/analytics/ecommerce.db`：供 SQL 查询和 BI 工具连接的 SQLite 数据库。
 - `docs/metabase_validation.md`：本地 Metabase 看板的卡片清单与渲染验证记录。
 
-基于公开匿名化 Olist 电商订单数据，使用 Python 与 SQL 构建订单粒度分析宽表，完成月度经营、首购 cohort、品类和配送体验分析，并以 Power BI/Metabase 交付可筛选看板与业务建议。
-
 ## 复现证据
 
 - 指标口径、数据范围与核心结果校验：[指标口径与复现证据](docs/metric_definitions.md)
@@ -48,5 +46,6 @@
 
 ![Cohort 留存快照](docs/screenshots/cohort_retention.svg)
 
+## 延伸案例
 
-
+- [AI 产品运营分析与埋点体系建设](ai_product_analytics/README.md)：使用匿名合成事件数据展示埋点字典、漏斗分析、数据质量校验和 BI 看板设计；不包含任何公司业务数据。
