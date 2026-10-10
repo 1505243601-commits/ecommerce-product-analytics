@@ -42,6 +42,4 @@ python ai_product_analytics/src/build_metrics.py
 - `feature_usage.csv`：功能、端、模型版本的使用汇总；
 - `data_quality_checks.csv`：事件、关键属性和重复上报校验结果。
 
-## 可写入简历的个人边界
 
-该案例可用于展示“埋点方案设计、数据校验、SQL/Python 指标分析和 BI 看板设计
